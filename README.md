@@ -71,6 +71,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/n-ithesh/n-ithesh/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/n-ithesh/n-ithesh/blob/875900b04c925fac62062b674b8f4fda00261303/.github/snake.yml" alt="Snake animation" />
 
 ###
