@@ -100,9 +100,9 @@
 
 <!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=n-ithesh&theme=tokyonight&hide_border=true&border_radius=8&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="Streak Stats"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=n-ithesh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
-</div> -->
+</div>
 
