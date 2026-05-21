@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nithesh%20R%20Kotian&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MCA%20Graduate&descAlignY=58&descSize=18&descColor=c9d1d9&animation=twinkling" width="100%" />
 
@@ -104,4 +104,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=n-ithesh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
-
+ -->
