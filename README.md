@@ -86,14 +86,14 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-</details>
+</details> -->
 
----
+
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=n-ithesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/> -->
+<img src="https://github-readme-stats.vercel.app/api?username=n-ithesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n-ithesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 </div>
 
@@ -104,4 +104,4 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=n-ithesh&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
- -->
+
